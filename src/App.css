@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #8758ff;
+  background: #f7f6f8;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,7 +39,7 @@ h1 {
 .todo-input {
   outline: none;
   background: none;
-  border: 1px solid #8758ff;
+  border: 1px solid #632bf1;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
